@@ -15,11 +15,11 @@ You can install these dependencies using pip:
 ```bash```
 pip install pandas tensorflow keras
 
-##Usage
+#Usage
 
 Modify the input data in app.py to make predictions for different scenarios.
 The model will predict the students' final scores based on the provided input.
 
-##Contributing
+#Contributing
 
 We welcome contributions to improve this project. Feel free to submit issues, open pull requests, or suggest enhancements.
