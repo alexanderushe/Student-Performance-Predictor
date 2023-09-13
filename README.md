@@ -12,7 +12,7 @@ Before you begin, make sure you have the following dependencies installed:
 
 You can install these dependencies using pip:
 
-```bash
+```bash```
 pip install pandas tensorflow keras
 
 ##Usage
